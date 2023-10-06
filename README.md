@@ -13,7 +13,7 @@
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;     ![Logo](https://github.com/yashraj9011/yashraj9011/blob/main/Participation%20Certificate.png)
 
- Participation Certificate recieved after Appearing the Examination conducted by Common Internship Studio . 
+ Participation Certificate recieved after Appearing for the Examination conducted by Common Internship Studio . 
 
   
 
