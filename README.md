@@ -7,6 +7,16 @@
 
   I prepared for General Aptitude for the syllabus mentioned above and appeared for examination conducted by Common Internship Studio . 
 
+  ## Participation Certificate 
+  
+
+
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;     ![Logo]
+
+  I prepared for General Aptitude for the syllabus mentioned above and appeared for examination conducted by Common Internship Studio . 
+
+  
+
 ## Course Training Cetificate
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  ![Logo](https://github.com/yashraj9011/yashraj9011/blob/main/Screenshot%20from%202023-10-05%2011-15-02.png)
