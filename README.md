@@ -2,8 +2,7 @@
 
 ## Syllabus of Test 
 
-
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;     ![Logo](https://github.com/yashraj9011/yashraj9011/blob/main/Syllabus%20of%20internship%20test.png)
+ &emsp;  &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;     ![Logo](https://github.com/yashraj9011/yashraj9011/blob/main/Syllabus%20of%20internship%20test.png)
 
   I prepared for General Aptitude for the syllabus mentioned above and appeared for examination conducted by Common Internship Studio . 
 
