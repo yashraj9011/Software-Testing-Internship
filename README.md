@@ -11,9 +11,9 @@
   
 
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;     ![Logo](https://github.com/yashraj9011/yashraj9011/blob/main/Yashraj%20Deepak%20%20Devrat%20-%20Participation%20Certificate.png)
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;     ![Logo](https://github.com/yashraj9011/yashraj9011/blob/main/Participation%20Certificate.png)
 
-  I prepared for General Aptitude for the syllabus mentioned above and appeared for examination conducted by Common Internship Studio . 
+ Participation Certificate recieved after Appearing the Examination conducted by Common Internship Studio . 
 
   
 
