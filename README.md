@@ -11,7 +11,7 @@
   
 
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;     ![Logo]
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp;     ![Logo](https://github.com/yashraj9011/yashraj9011/blob/main/Yashraj%20Deepak%20%20Devrat%20-%20Participation%20Certificate.png)
 
   I prepared for General Aptitude for the syllabus mentioned above and appeared for examination conducted by Common Internship Studio . 
 
